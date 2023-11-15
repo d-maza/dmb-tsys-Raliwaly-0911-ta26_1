@@ -25,3 +25,27 @@ Este repositorio contiene las tareas del Bootcamp 👨‍💻
 
 - Update the dependencies and remember to create the databases
 
+
+| PIEZAS
+| ------------- 
+GET /api/v1/piezas
+GET /api/v1/pieza/{id}
+POST /api/v1/pieza
+PUT /api/v1/pieza/{id}
+DELETE /api/v1/pieza/{id}
+
+| PROVEEDORES
+| ------------- 
+GET /api/v1/proveedors
+GET /api/v1/proveedors/{id}
+POST /api/v1/proveedors
+PUT /api/v1/proveedors/{id}
+DELETE /api/v1/proveedors/{id}
+
+| PROVEEDORES
+| ------------- 
+GET /api/v1/suministas
+GET /api/v1/suminista/{id}
+POST /api/v1/suminista
+PUT /api/v1/suminista/{id}
+DELETE /api/v1/suminista/{id}
