@@ -4,7 +4,7 @@
 
 ![My etiqueta](https://img.shields.io/badge/David%20Maza-DiveCode%F0%9F%90%99-blue) ![UD](https://img.shields.io/badge/TA-26_1-orange)  ![Java Version](https://img.shields.io/badge/SprintBoot-Raillway-red)
 
-# T26-1 - Spring Mysql with temporary deployment on Rallyway
+# T26-1 - Spring Mysql with temporary deployment on Railway
 
 Este repositorio contiene las tareas del Bootcamp 👨‍💻
 
